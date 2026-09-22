@@ -1,0 +1,7 @@
+# cmd 批处理保持 CRLF + 不做编码转换（含 GBK 中文注释，UTF-8 化会破坏解析）
+*.cmd text eol=crlf
+# Windows 源码与文档
+*.c text eol=crlf
+*.md text eol=crlf
+*.ini text eol=crlf
+*.ps1 text eol=crlf

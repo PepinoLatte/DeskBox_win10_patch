@@ -1,0 +1,15 @@
+# 二进制产物（Release 发布，仓库保留源码与文档）
+*.dll
+*.exe
+*.lib
+
+# 编译中间产物
+*.obj
+*.pdb
+
+# 安装脚本生成的本地记录
+original_run_key.txt
+
+# 系统杂物
+Thumbs.db
+desktop.ini

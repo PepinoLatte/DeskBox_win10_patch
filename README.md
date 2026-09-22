@@ -1,6 +1,6 @@
 # DeskBox Round Corners（DeskBox Win10 圆角补丁）
 
-> 让 [DeskBox](https://github.com/daiyoushui/DeskBox)（桌面盒子整理工具）在 **Windows 10** 上也能拥有 Win11 风格的窗口圆角。
+> 让 [DeskBox](https://deskbox.fun)（桌面盒子整理工具）在 **Windows 10** 上也能拥有 Win11 风格的窗口圆角。
 > 进程内融合方案：**无独立常驻进程**，不改 DeskBox 任何文件，DeskBox 官方更新后补丁依然有效。
 
 ---
@@ -143,4 +143,4 @@ MIT
 
 ## 免责声明
 
-本补丁为社区第三方工具，与 DeskBox 官方无关。请从官方渠道下载 DeskBox 本体。
+本补丁为社区第三方工具，与 DeskBox 官方无关。请从官方渠道下载 DeskBox 本体：[deskbox.fun](https://deskbox.fun)。
